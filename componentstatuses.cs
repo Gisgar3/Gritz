@@ -40,7 +40,8 @@ using System.Collections.Generic;
 using System.Management;
 using System.Text;
 
-namespace Gritz {
+namespace Gritz 
+{
     class ComponentStatuses {
         public static string[] Availability = new string[] {
             // Starts at Code 1
