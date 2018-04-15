@@ -17,4 +17,5 @@ The original idea of **Gritz** stemmed from the time when I helped my aunt fix h
 
 ### Planned Features  
 **~** USB-Communication  
-**~** TCP-Server-Communication
+**~** TCP-Server-Communication  
+**~** GUI-Version
