@@ -1,0 +1,13 @@
+C:\Users\Gisgar3\Desktop\OpenSource\Gritz\bin\Release\netcoreapp2.0\win81-x64\hostpolicy.dll
+C:\Users\Gisgar3\Desktop\OpenSource\Gritz\bin\Release\netcoreapp2.0\win81-x64\hostfxr.dll
+C:\Users\Gisgar3\Desktop\OpenSource\Gritz\bin\Release\netcoreapp2.0\win81-x64\Gritz.exe
+C:\Users\Gisgar3\Desktop\OpenSource\Gritz\bin\Release\netcoreapp2.0\win81-x64\Gritz.deps.json
+C:\Users\Gisgar3\Desktop\OpenSource\Gritz\bin\Release\netcoreapp2.0\win81-x64\Gritz.runtimeconfig.json
+C:\Users\Gisgar3\Desktop\OpenSource\Gritz\bin\Release\netcoreapp2.0\win81-x64\Gritz.runtimeconfig.dev.json
+C:\Users\Gisgar3\Desktop\OpenSource\Gritz\bin\Release\netcoreapp2.0\win81-x64\Gritz.dll
+C:\Users\Gisgar3\Desktop\OpenSource\Gritz\bin\Release\netcoreapp2.0\win81-x64\Gritz.pdb
+C:\Users\Gisgar3\Desktop\OpenSource\Gritz\obj\Release\netcoreapp2.0\win81-x64\Gritz.csproj.CoreCompileInputs.cache
+C:\Users\Gisgar3\Desktop\OpenSource\Gritz\obj\Release\netcoreapp2.0\win81-x64\Gritz.AssemblyInfoInputs.cache
+C:\Users\Gisgar3\Desktop\OpenSource\Gritz\obj\Release\netcoreapp2.0\win81-x64\Gritz.AssemblyInfo.cs
+C:\Users\Gisgar3\Desktop\OpenSource\Gritz\obj\Release\netcoreapp2.0\win81-x64\Gritz.dll
+C:\Users\Gisgar3\Desktop\OpenSource\Gritz\obj\Release\netcoreapp2.0\win81-x64\Gritz.pdb
